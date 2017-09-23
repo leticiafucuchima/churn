@@ -1,0 +1,3 @@
+## Importar base
+
+library(tidyverse)
